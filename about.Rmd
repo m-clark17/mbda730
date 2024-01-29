@@ -1,0 +1,42 @@
+---
+title: "About Me"
+description: |
+  Michael Clark 
+  
+  Email | michaelclark@ucwv.edu
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## EDUCATION 
+
+Master of Science (August 2023 - Present) <br />
+University of Charleston, West Virginia <br />
+Business and Data Analytics
+
+Bachelor of Science (September, 2023) <br />
+University of Charleston, West Virginia <br />
+Organizational Leadership 
+
+
+## WORK EXPERIENCE
+
+Senior Analyst (October 2020 – Present)
+U.S. Department of Defense
+
+Counter proliferation Analyst (August 2014 – October 2020)
+U.S. Department of Defense
+
+Staff Officer (August 2011 - August 2014)
+U.S. Department of Defense						           
+
+
+## SKILLS
+
+- R | RStudio | Rmarkdown
+- Python
+- Tableau | PowerBI
+- Analysis | Manipulation | Visualization | Presentation 

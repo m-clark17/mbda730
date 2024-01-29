@@ -1,0 +1,21 @@
+name: "."
+title: "Michael Clark"
+description: |
+  Michael Clark 's Personal Website
+output_dir: "docs"
+theme: styles.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Posts"
+      href: Posts.html
+    - icon: fab fa-linkedin
+      href: "https://www.linkedin.com/in/michael-clark-35a0599/"
+    - icon: fab fa-github
+      href: "https://github.com/m-clark17/"
+
+output: distill::distill_article
+

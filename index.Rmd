@@ -1,0 +1,31 @@
+---
+title: "Michael Clark"
+image: "images/bio-pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/michael-clark-35a0599/"
+  - label: GitHub
+    url: "https://github.com/m-clark17/"
+  - label: Email
+    url: "michaelclark@ucwv.edu"
+    
+site: distill::distill_website
+
+  
+output:
+  postcards::trestles
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+
+Welcome to my personal website! I'm currently studying for my master's in Business and Data Analytics from the University of Charleston, West Virginia. I am currently by the Department of Defense as a Senior Analyst.I enjoy photography and scuba diving in my spare time.
